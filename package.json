@@ -14,11 +14,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1",
     "graphql": "^15.5.0",
     "if-env": "^1.0.4",
-    "redux-devtools": "^3.7.0"
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0"
   },
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "redux-devtools": "^3.7.0"
   }
 }
