@@ -2,6 +2,8 @@
 
 Hello, and welcome to my README! This is for my Week 22  Challenge, which was to refractor existing code for a shopping app to use React Redux for state management. 
 
+![website image](https://github.com/dvicj/shop-shop/blob/main/images/%F0%9F%9B%8D%EF%B8%8F-Shop-Shop.png)
+
 It was my job to ensure the Shop-Shop app had the following features:
 
 - Use Redux to manage global state
@@ -47,9 +49,9 @@ Alternatively, the application can be viewed anywhere from [Heroku](https://infi
 ## Usage
 Here are some user experience highlights from my page:
 
-The user is able to add and remove material from their shopping cart. Using [stripe](https://www.npmjs.com/package/stripe) they will be able to pay for their items and checkout. 
+The user can signup or login. User is authenticated using JSON Web Tokens. The user is able to add and remove material from their shopping cart. Using [stripe](https://www.npmjs.com/package/stripe) they will be able to pay for their items and checkout. 
 
-![adding and removing from cart]()
+![adding and removing from cart](https://github.com/dvicj/shop-shop/blob/main/images/cart.gif)
 
 ## Credits
 These are some sources I used to help me along:
